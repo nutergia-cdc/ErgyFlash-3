@@ -351,3 +351,8 @@ font-size: 40px;
 }
 h6{font-weight: 100;}
 
+.puce{
+    
+    list-style: disc;
+    margin-left:  20px;
+}
